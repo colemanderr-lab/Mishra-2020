@@ -1,11 +1,11 @@
 # Mishra-2020
-## MMP5 manuscript
+## Loss of Arabidopsis Matrix metalloproteinase-5 affects root development and root bacterial communities during drought stress
 
-*Laxmi Mishra, Daniel F. Caddell, Devin Coleman-Derr, XXX,XXX*
+*Laxmi S. Mishraa, Sung-Yong Kima, Daniel Caddell, Devin Coleman-Derr, and Christiane Funk**
 
 Link to BioRxiv preprint:
 
-Link to final publication
+Link to final publication:
 
 Included in this repository are...
 + Mishra2020.Rmd (R markdown file to run analyses and generate figures)
