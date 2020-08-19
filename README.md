@@ -12,4 +12,4 @@ Included in this repository are...
 + all associated txt files needed to run Mishra2020.Rmd analyses and generate figures
 + all associated R data files needed to run Mishra2020.Rmd analyses and generate figures
 
-Raw sequence files have been uploaded to NCBI under BioProject PRJNAxxxxx (https://www.ncbi.nlm.nih.gov/bioproject/PRJNAxxxxx)
+Raw sequence files have been uploaded to NCBI under BioProject PRJNA658104 (https://www.ncbi.nlm.nih.gov/bioproject/PRJNA658104)
