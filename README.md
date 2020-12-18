@@ -3,7 +3,7 @@
 
 *Laxmi S. Mishra, Sung-Yong Kim, Daniel Caddell, Devin Coleman-Derr, and Christiane Funk**
 
-Link to final publication:
+Link to final publication:  https://doi.org/10.1111/ppl.13299
 
 Included in this repository are...
 + Mishra2020.Rmd (R markdown file to run analyses and generate figures)
